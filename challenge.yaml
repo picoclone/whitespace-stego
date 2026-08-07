@@ -1,0 +1,7 @@
+slug: whitespace-stego
+title: Whitespace Stego
+category: steganography
+difficulty: easy
+points: 150
+codec: base64
+repo_url: https://github.com/picoclone/whitespace-stego
